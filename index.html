@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Alura MIDI</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap" rel="stylesheet">
+
+    <link rel="icon" type="image/png" href="images/bateria.png">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/estilos.css">
+
+</head>
+<body>
+
+    <h1>Alura Midi</h1>
+
+    <section class="teclado">
+        <button class="tecla tecla__kick">Kick</button>
+        <button class="tecla tecla__clap">Clap</button>
+        <button class="tecla tecla__openhat">Open Hat</button>
+
+        <button class="tecla tecla__kickhat">Kick/Hat</button>
+        <button class="tecla tecla__ride">Ride</button>
+        <button class="tecla tecla__ride2">Ride2</button>
+
+        <button class="tecla tecla__snare">Snare</button>
+        <button class="tecla tecla__perc">Perc</button>
+        <button class="tecla tecla__tom">Tom</button>
+    </section>
+
+    <audio  src="sounds/keyq.wav" id="som__tecla__kick"></audio>
+    <audio  src="sounds/keyw.wav" id="som__tecla__clap"></audio>
+    <audio  src="sounds/keye.wav" id="som__tecla__openhat"></audio>
+    <audio  src="sounds/keya.wav" id="som__tecla__kickhat"></audio>
+    <audio  src="sounds/keys.wav" id="som__tecla__ride"></audio>
+    <audio  src="sounds/keyd.wav" id="som__tecla__ride2"></audio>
+    <audio  src="sounds/keyz.wav" id="som__tecla__snare"></audio>
+    <audio  src="sounds/keyx.wav" id="som__tecla__perc"></audio>
+    <audio  src="sounds/keyc.wav" id="som__tecla__tom"></audio>
+
+    <script src="main.js"></script>
+</body>
+</html>
