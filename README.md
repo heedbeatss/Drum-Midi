@@ -8,7 +8,7 @@ Como Usar
 Clone o repositório para o seu ambiente de desenvolvimento local.
 bash
 Copiar código
-git clone https://github.com/heedbeatss/Alura-midi.git
+git clone https://github.com/heedbeatss/Drum-midi.git
 Abra o arquivo index.html em um navegador da web.
 Utilize as teclas do teclado do seu computador para reproduzir os sons de bateria associados a cada botão.
 Experimente diferentes combinações de teclas para criar ritmos e batidas personalizadas.
