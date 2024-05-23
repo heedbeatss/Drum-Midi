@@ -4,6 +4,7 @@ O Teclado MIDI Virtual é uma aplicação web que simula um teclado MIDI, permit
 Funcionalidades Principais
 Interface Intuitiva: A interface consiste em uma grade de botões representando as teclas do teclado MIDI e cada botão está vinculado a um som de bateria correspondente.
 Reprodução de Sons: Cada tecla do teclado está associada a um som específico de bateria, permitindo criar ritmos e batidas de forma interativa, também é possivel usar os numeros do teclado para executar os sons:
+
 1 - Kick  
 2 - Clap
 3 - Open-Hat
