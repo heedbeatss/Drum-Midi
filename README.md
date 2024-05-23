@@ -6,13 +6,21 @@ Interface Intuitiva: A interface consiste em uma grade de botões representando 
 Reprodução de Sons: Cada tecla do teclado está associada a um som específico de bateria, permitindo criar ritmos e batidas de forma interativa, também é possivel usar os numeros do teclado para executar os sons:
 
 1 - Kick  
+
 2 - Clap
+
 3 - Open-Hat
+
 4 - 808
+
 5 - Hi-Hat
+
 6 -  Crash
+
 7 - Snare
+
 8 - Perc 
+
 9 - Snap
 
 Como usar:
