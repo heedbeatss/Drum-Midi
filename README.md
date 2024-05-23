@@ -1,4 +1,4 @@
-Teclado MIDI Virtual
+Drum-midi v2 o teclado MIDI virtual
 
 O Teclado MIDI Virtual é uma aplicação web que simula um teclado MIDI, permitindo aos usuários tocar diferentes sons de bateria através do teclado do computador.
 
